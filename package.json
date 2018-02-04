@@ -1,0 +1,19 @@
+{
+  "name": "leadership-academy-website",
+  "version": "1.0.0",
+  "description": "We are running the lazy github explanation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhan62/Leadership-Academy-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkhan62/Leadership-Academy-Website/issues"
+  },
+  "homepage": "https://github.com/mkhan62/Leadership-Academy-Website#readme"
+}
