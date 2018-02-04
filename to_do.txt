@@ -1,0 +1,9 @@
+# Standardize the forms so everything goes in the same columns
+# xGo through existing google sheets and check formats
+# Form making for every event
+# Learn the functionality of google script api
+# Anthea will deliver an hours left script
+# Adi will deliver lookup script
+# Khan will work on backend
+# Mete will do graduated script
+# Heather will deliver received and need reward
